@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/game_lucifer_test/static/css/main.f855e6bc.css",
-    "main.js": "/game_lucifer_test/static/js/main.030654ef.js",
-    "static/js/453.ed3810f9.chunk.js": "/game_lucifer_test/static/js/453.ed3810f9.chunk.js",
-    "static/media/logo.svg": "/game_lucifer_test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/game_lucifer_test/static/css/main.e6ce0f69.css",
+    "main.js": "/game_lucifer_test/static/js/main.59f0621c.js",
     "index.html": "/game_lucifer_test/index.html",
-    "main.f855e6bc.css.map": "/game_lucifer_test/static/css/main.f855e6bc.css.map",
-    "main.030654ef.js.map": "/game_lucifer_test/static/js/main.030654ef.js.map",
-    "453.ed3810f9.chunk.js.map": "/game_lucifer_test/static/js/453.ed3810f9.chunk.js.map"
+    "main.e6ce0f69.css.map": "/game_lucifer_test/static/css/main.e6ce0f69.css.map",
+    "main.59f0621c.js.map": "/game_lucifer_test/static/js/main.59f0621c.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.030654ef.js"
+    "static/css/main.e6ce0f69.css",
+    "static/js/main.59f0621c.js"
   ]
 }
