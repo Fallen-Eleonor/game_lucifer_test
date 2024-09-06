@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/game_lucifer_test/static/css/main.e6ce0f69.css",
+    "main.js": "/game_lucifer_test/static/js/main.59f0621c.js",
+    "index.html": "/game_lucifer_test/index.html",
+    "main.e6ce0f69.css.map": "/game_lucifer_test/static/css/main.e6ce0f69.css.map",
+    "main.59f0621c.js.map": "/game_lucifer_test/static/js/main.59f0621c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6ce0f69.css",
+    "static/js/main.59f0621c.js"
+  ]
+}
