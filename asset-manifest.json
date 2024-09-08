@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/game_lucifer_test/static/css/main.d9437550.css",
-    "main.js": "/game_lucifer_test/static/js/main.0a7b9146.js",
+    "main.css": "/game_lucifer_test/static/css/main.f7af6e7b.css",
+    "main.js": "/game_lucifer_test/static/js/main.130e5177.js",
     "index.html": "/game_lucifer_test/index.html",
-    "main.d9437550.css.map": "/game_lucifer_test/static/css/main.d9437550.css.map",
-    "main.0a7b9146.js.map": "/game_lucifer_test/static/js/main.0a7b9146.js.map"
+    "main.f7af6e7b.css.map": "/game_lucifer_test/static/css/main.f7af6e7b.css.map",
+    "main.130e5177.js.map": "/game_lucifer_test/static/js/main.130e5177.js.map"
   },
   "entrypoints": [
-    "static/css/main.d9437550.css",
-    "static/js/main.0a7b9146.js"
+    "static/css/main.f7af6e7b.css",
+    "static/js/main.130e5177.js"
   ]
 }
